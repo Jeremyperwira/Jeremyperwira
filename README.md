@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jeremyperwira
-- 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning React Frameworks
+- 👀 I’m working as Web and Mobile Development
+- 🌱 I’m currently learning AI API 
 - 💞️ I’m looking to collaborate on CSR or Non-Profit Public Project
-- 📫 How to reach me Discord STYX#2127
+- 📫 How to reach me code@jeremyperwira.com
 
 <!---
 Jeremyperwira/Jeremyperwira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
